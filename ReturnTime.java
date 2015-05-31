@@ -14,4 +14,12 @@ public class ReturnTime {
         year = "2016";
         return year;
     }
+
+    public String GetMonth()
+    {
+        String month;
+
+        month = "January";
+        return month;
+    }
 }
